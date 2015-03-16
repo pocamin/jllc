@@ -1,0 +1,1 @@
+This project is to follow the developpement of a librairy to have some contextual loading strategie (lazy or eager) on some ORM.
